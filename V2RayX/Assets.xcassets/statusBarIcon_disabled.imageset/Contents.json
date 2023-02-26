@@ -1,16 +1,50 @@
 {
   "images" : [
     {
-      "filename" : "vx_16_h.png",
+      "filename" : "V2RayX-B-1.0b@0.5x.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "vx_32_h.png",
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "V2RayX-W-1.0@0.5x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "V2RayX-B-1.0b@1x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "V2RayX-W-1.0@1x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "V2RayX-B-1.0b@1.5x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "V2RayX-W-1.0@1.5x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
